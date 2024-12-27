@@ -124,7 +124,6 @@
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
 <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
@@ -137,95 +136,6 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C812%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 14.2 MB Used in GitHub's Storage
->
-> 🏆 10,740 Contributions in the Year 2024
->
-> 💼 Opted to Hire
->
-> 📜 208 Public Repositories
->
-> 🔑 1 Private Repositories
->
-> **I'm a Night 🦉**
-
-```text
-🌞 Morning                17030 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 %
-🌆 Daytime                26048 commits       ███████░░░░░░░░░░░░░░░░░░   27.64 %
-🌃 Evening                33035 commits       █████████░░░░░░░░░░░░░░░░   35.06 %
-🌙 Night                  18117 commits       █████░░░░░░░░░░░░░░░░░░░░   19.23 %
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday                   13133 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Tuesday                  13206 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 %
-Wednesday                13348 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Thursday                 13136 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Friday                   13179 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Saturday                 13724 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Sunday                   14504 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-Other                    31 hrs 49 mins      █████████████████████████   98.93 %
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-
-🔥 Editors:
-Chrome                   32 hrs 9 mins       █████████████████████████   100.00 %
-
-🐱‍💻 Projects:
-developer-portfolios     29 hrs 27 mins      ███████████████████████░░   91.59 %
-mim-sdou-jmc             2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-developer-portfolio      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-vinodjangid07.github.io  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-awesome-portfolio-website0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-
-💻 Operating System:
-Windows                  32 hrs 9 mins       █████████████████████████   100.00 %
-```
-
-**I Mostly Code in Jupyter Notebook**
-
-```text
-C++                      20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.61 %
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-```
-
-Last Updated on 27/12/2024 02:38:36 UTC
-
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
 
 <h1>
   Connect With Me
