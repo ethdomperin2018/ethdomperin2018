@@ -44,9 +44,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=CrystalTT2018&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
-<div style="flex: 1; text-align: center;">
+<div>
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -69,12 +67,6 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-
-</div>
-
-<div style="flex: 1; text-align: center;">
-  <img src="img/skills.gif" width="300" height="300" />
-</div>
 
 </div>
 
