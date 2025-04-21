@@ -10,10 +10,11 @@
 
 <h3>Key Strengths</h3>
 
-- <strong>Javascript, Python, Golang, Rust, C++, Ruby, R, PHP</strong>
+- <strong>Languages:</strong> Javascript, Python, Golang, Rust, C++, Ruby, R, PHP.
 - <strong>Full Stack Development:</strong> Proficient in building end-to-end web applications using modern frameworks (React, Next, Vue, FastAPI, Flask, Django, Express, Nest, Hapi, Laravel, Ruby on Rails, Gin, Echo, Rocket).
 - <strong>AI/ML Integration:</strong> Experience leveraging Machine Learning, OpenAI, LangChain, LlamaIndex, CrewAI and custom NLP models to enhance automation and data-driven decision-making.
 - <strong>Desktop Applications:</strong> Expertise in cross-platform desktop app development (Electron, Tauri).
+- <strong>Collaboration Work:</strong> GitHub, GitLab, Trello, Jira.
 - <strong>Problem-Solving:</strong> Passionate about optimizing performance, scalability, and maintainability in codebases.
 
 <h3>My Work</h3>
@@ -74,6 +75,6 @@
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<strong>꧁༺𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! ༻꧂</strong>
 
 </div>
