@@ -8,9 +8,10 @@
 <h3>About Me</h3>
 <strong>As a highly skilled Software Engineer, I specialize in designing and developing innovative, scalable solutions across multiple domains, including Full Stack Development, AI/ML integration, and Desktop Applications. With a strong foundation in programming and system architecture, I excel at transforming complex requirements into efficient, user-centric software.</strong>
 
-<h3>Key Strengths:</h3>
+<h3>Key Strengths</h3>
 
-- <strong>Full Stack Development:</strong> Proficient in building end-to-end web applications using modern frameworks (React, Next, Vue, FastAPI, Flask, Django, Express, Nest, Hapi, Laravel, Ruby on Rails, Golang).
+- <strong>Javascript, Python, Golang, Rust, C++, Ruby, R, PHP</strong>
+- <strong>Full Stack Development:</strong> Proficient in building end-to-end web applications using modern frameworks (React, Next, Vue, FastAPI, Flask, Django, Express, Nest, Hapi, Laravel, Ruby on Rails, Gin, Echo, Rocket).
 - <strong>AI/ML Integration:</strong> Experience leveraging Machine Learning, OpenAI, LangChain, LlamaIndex, CrewAI and custom NLP models to enhance automation and data-driven decision-making.
 - <strong>Desktop Applications:</strong> Expertise in cross-platform desktop app development (Electron, Tauri).
 - <strong>Problem-Solving:</strong> Passionate about optimizing performance, scalability, and maintainability in codebases.
@@ -28,7 +29,7 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:</strong>
 </summary>
 <br/>
 
@@ -76,7 +77,3 @@
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
-
-#
-
-![footer](WEBP/footer.webp)
