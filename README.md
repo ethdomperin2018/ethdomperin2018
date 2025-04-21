@@ -1,12 +1,9 @@
 <h1 align="center">
   𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐀𝐈 | 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿(𝓙𝓢, 𝓟𝔂𝓽𝓱𝓸𝓷, 𝓖𝓸, 𝓡𝓾𝓼𝓽)
-  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <br/>
 <br/>
-
-<img align="right" height="250" width="400" alt="GIF" src="GIF/image.gif" />
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web and AI product(chatbot, image generator, video generator, etc.) development**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AI Model training and deployment**
