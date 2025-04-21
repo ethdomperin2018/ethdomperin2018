@@ -6,8 +6,6 @@
 <br/>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
-
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
