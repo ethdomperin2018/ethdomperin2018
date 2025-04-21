@@ -44,12 +44,10 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=CrystalTT2018&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h4 align="center">
-          <pre>
+
+<h4 align="center">
+  
+```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -69,19 +67,12 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-          </pre>
-        </h4>
-      </td>
-      <td>
-        <img src="img/skills.gif" width="300" height="300" />
-      </td>
-    </tr>
-  </table>
-</div>
+```
+
+</h4>  
 
 <h3 align="center">
 
 𝓢𝓱𝓸𝔀 𝓼𝓸𝓶𝓮 💔 𝓫𝔂 𝓼𝓽𝓪𝓻𝓻𝓲𝓷𝓰 𝓼𝓸𝓶𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓻𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼!
 
 </h3>
-
