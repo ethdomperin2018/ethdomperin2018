@@ -6,20 +6,17 @@
 <br/>
 
 <h3>About Me</h3>
-As a highly skilled Software Engineer, I specialize in designing and developing innovative, scalable solutions across multiple domains, including Full Stack Development, AI/ML integration, and Desktop Applications. With a strong foundation in programming and system architecture, I excel at transforming complex requirements into efficient, user-centric software.
-
-<br>
+<strong>As a highly skilled Software Engineer, I specialize in designing and developing innovative, scalable solutions across multiple domains, including Full Stack Development, AI/ML integration, and Desktop Applications. With a strong foundation in programming and system architecture, I excel at transforming complex requirements into efficient, user-centric software.</strong>
 
 <h3>Key Strengths:</h3>
 
-- Full Stack Development: Proficient in building end-to-end web applications using modern frameworks (React, Next, Vue, FastAPI, Flask, Django, Express, Nest, Hapi, Laravel, Ruby on Rails, Golang).
-- AI/ML Integration: Experience leveraging Machine Learning, OpenAI, LangChain, LlamaIndex, CrewAI and custom NLP models to enhance automation and data-driven decision-making.
-- Desktop Applications: Expertise in cross-platform desktop app development (Electron, Tauri).
-- Problem-Solving: Passionate about optimizing performance, scalability, and maintainability in codebases.
-
-<br>
+- <strong>Full Stack Development:</strong> Proficient in building end-to-end web applications using modern frameworks (React, Next, Vue, FastAPI, Flask, Django, Express, Nest, Hapi, Laravel, Ruby on Rails, Golang).
+- <strong>AI/ML Integration:</strong> Experience leveraging Machine Learning, OpenAI, LangChain, LlamaIndex, CrewAI and custom NLP models to enhance automation and data-driven decision-making.
+- <strong>Desktop Applications:</strong> Expertise in cross-platform desktop app development (Electron, Tauri).
+- <strong>Problem-Solving:</strong> Passionate about optimizing performance, scalability, and maintainability in codebases.
 
 <h3>My Work</h3>
+
 - 🔭 I am currently working on Full Stack AI, Desktop App Development.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AI Model training and deployment.**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
@@ -73,64 +70,6 @@ As a highly skilled Software Engineer, I specialize in designing and developing 
 </h4>  
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
-<br/>
-
-#
-
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C812%20hrs%2026%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
-
-<h1>
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px"/>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
-</p>
-
-<br/>
-<br/>
 
 <div align="center">
 
