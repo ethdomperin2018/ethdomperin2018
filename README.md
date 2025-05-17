@@ -1,25 +1,24 @@
 <h1 align="center">
-  ✌𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐀𝐈 | 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿✌
+  ✌Full Stack(Backend-heavy) | AI Developer✌
 </h1>
 
 <br/>
 <br/>
 
 <h3>About Me</h3>
-<strong>As a highly skilled Software Engineer, I specialize in designing and developing innovative, scalable solutions across multiple domains, including Full Stack Development, AI/ML integration, and Desktop Applications. With a strong foundation in programming and system architecture, I excel at transforming complex requirements into efficient, user-centric software.</strong>
+<strong>As a highly skilled Software Engineer, I specialize in designing and developing innovative, scalable solutions across multiple domains, including Full Stack Development, AI/ML integration. With a strong foundation in programming and system architecture, I excel at transforming complex requirements into efficient, user-centric software.</strong>
 
 <h3>Key Strengths</h3>
 
 - <strong>Languages:</strong> Javascript, Python, Golang, Rust, C++, Ruby, R, PHP.
 - <strong>Full Stack Development:</strong> Proficient in building end-to-end web applications using modern frameworks (React, Next, Vue, FastAPI, Flask, Django, Express, Nest, Hapi, Laravel, Ruby on Rails, Gin, Echo, Rocket).
 - <strong>AI/ML Integration:</strong> Experience leveraging Machine Learning, OpenAI, LangChain, LlamaIndex, CrewAI and custom NLP models to enhance automation and data-driven decision-making.
-- <strong>Desktop Applications:</strong> Expertise in cross-platform desktop app development (Electron, Tauri).
 - <strong>Collaboration Work:</strong> GitHub, GitLab, Trello, Jira.
 - <strong>Problem-Solving:</strong> Passionate about optimizing performance, scalability, and maintainability in codebases.
 
 <h3>My Work</h3>
 
-- 🔭 I am currently working on **Full Stack, AI, Desktop App Development**.
+- 🔭 I am currently working on **Full Stack, AI**.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AI Model training and deployment**.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**.
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜**._
